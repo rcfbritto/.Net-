@@ -1,0 +1,15 @@
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/bin/Debug/net7.0/MeuPrimeiroProjeto
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/bin/Debug/net7.0/MeuPrimeiroProjeto.deps.json
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/bin/Debug/net7.0/MeuPrimeiroProjeto.runtimeconfig.json
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/bin/Debug/net7.0/MeuPrimeiroProjeto.dll
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/bin/Debug/net7.0/MeuPrimeiroProjeto.pdb
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.AssemblyInfo.cs
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.dll
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/refint/MeuPrimeiroProjeto.dll
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.pdb
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/MeuPrimeiroProjeto.genruntimeconfig.cache
+/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/Debug/net7.0/ref/MeuPrimeiroProjeto.dll
