@@ -168,33 +168,33 @@ Nesse caso, a saída para o numeroInteiro, após a conversão, seria 11. Isso ac
 ### - Operadores Aritméticos:
 #### Dada a variável int x = 10 e a variável int y = 3, escreva código para calcular e exibir o resultado da adição, subtração, multiplicação e divisão de x por y.
 ```
-Implementada no arquivo Algoritmos.cs
+Implementada no arquivo Program.cs   
 ```
 
 ## Questão 5
 ### - Operadores de Comparação:
 #### Considere as variáveis int a = 5 e int b = 8. Escreva código para determinar se a é maior que b e exiba o resultado.
 ```
-Implementada no arquivo Algoritmos.cs
+Implementada no arquivo Program.cs 
 ```
 
 ## Questão 6
 ### - Operadores de Igualdade:
 #### Você tem duas strings, string str1 = "Hello" e string str2 = "World". Escreva código para verificar se as duas strings são iguais e exibir o resultado.
 ```
-Implementada no arquivo Algoritmos.cs
+Implementada no arquivo Program.cs 
 ```
 
 ## Questão 7
 ### - Operadores Lógicos:
 #### Suponha que você tenha duas variáveis booleanas, bool condicao1 = true e bool condicao2 = false. Escreva código para verificar se ambas as condições são verdadeiras e exiba o resultado.
 ```
-Implementada no arquivo Algoritmos.cs
+Implementada no arquivo Program.cs 
 ```
 
 ## Questão 8
 ### Desafio de Mistura de Operadores:
 #### Dadas as variáveis int num1 = 7, int num2 = 3, e int num3 = 10, escreva código para verificar se num1 é maior do que num2 e se num3 é igual a num1 + num2.
 ```
-Implementada no arquivo Algoritmos.cs
+Implementada no arquivo Program.cs 
 ```
