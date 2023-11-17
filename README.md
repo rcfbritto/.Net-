@@ -3,7 +3,8 @@ Repositório dedicado à disciplina de .Net do Programa de Residência em Softwa
 
 ## Autora:
 Rafaela Cristina Ferreira Brito
-Turma T3
+
+### Turma T3
 
 ## Atividades até o momento:
 - Instrução Prática 001 (.Net-P001)
