@@ -1,0 +1,5 @@
+/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/Debug/net7.0/PI001.csproj.AssemblyReference.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/Debug/net7.0/PI001.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/Debug/net7.0/PI001.AssemblyInfoInputs.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/Debug/net7.0/PI001.AssemblyInfo.cs
+/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/Debug/net7.0/PI001.csproj.CoreCompileInputs.cache

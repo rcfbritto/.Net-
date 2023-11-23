@@ -1,0 +1,15 @@
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/bin/Debug/net7.0/exemplosAula
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/bin/Debug/net7.0/exemplosAula.deps.json
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/bin/Debug/net7.0/exemplosAula.runtimeconfig.json
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/bin/Debug/net7.0/exemplosAula.dll
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/bin/Debug/net7.0/exemplosAula.pdb
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.csproj.AssemblyReference.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.AssemblyInfoInputs.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.AssemblyInfo.cs
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.csproj.CoreCompileInputs.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.dll
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/refint/exemplosAula.dll
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.pdb
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/exemplosAula.genruntimeconfig.cache
+/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/Debug/net7.0/ref/exemplosAula.dll

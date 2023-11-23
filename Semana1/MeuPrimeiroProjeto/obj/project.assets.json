@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/MeuPrimeiroProjeto.csproj",
+      "projectUniqueName": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/MeuPrimeiroProjeto/MeuPrimeiroProjeto.csproj",
       "projectName": "MeuPrimeiroProjeto",
-      "projectPath": "/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/MeuPrimeiroProjeto.csproj",
+      "projectPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/MeuPrimeiroProjeto/MeuPrimeiroProjeto.csproj",
       "packagesPath": "/home/rafaela-cristina-brito/.nuget/packages/",
-      "outputPath": "/home/rafaela-cristina-brito/dotNet/Semana1/MeuPrimeiroProjeto/obj/",
+      "outputPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/MeuPrimeiroProjeto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rafaela-cristina-brito/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

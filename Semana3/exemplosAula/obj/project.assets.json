@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/PI001.csproj",
-      "projectName": "PI001",
-      "projectPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/PI001.csproj",
+      "projectUniqueName": "/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/exemplosAula.csproj",
+      "projectName": "exemplosAula",
+      "projectPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/exemplosAula.csproj",
       "packagesPath": "/home/rafaela-cristina-brito/.nuget/packages/",
-      "outputPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana1/Pratica-001/obj/",
+      "outputPath": "/home/rafaela-cristina-brito/projetos/dotNet/Semana3/exemplosAula/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rafaela-cristina-brito/.nuget/NuGet/NuGet.Config"
