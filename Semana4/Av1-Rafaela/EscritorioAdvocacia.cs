@@ -33,6 +33,12 @@ public class EscritorioAdvocacia
         }
     }
     public void RemoverCliente(Cliente cliente){
+        if(!clientes.Exists(x => x.CPF == cliente.CPF)){
+            System.Console.WriteLine("Cliente não encontrado!");
+        }
+        else{
+             clientes.Remove(cliente);
+        }
         
     }
 }
