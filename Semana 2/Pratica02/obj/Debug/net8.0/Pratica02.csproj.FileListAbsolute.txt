@@ -1,0 +1,15 @@
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\bin\Debug\net8.0\Pratica02.exe
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\bin\Debug\net8.0\Pratica02.deps.json
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\bin\Debug\net8.0\Pratica02.runtimeconfig.json
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\bin\Debug\net8.0\Pratica02.dll
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\bin\Debug\net8.0\Pratica02.pdb
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.AssemblyInfoInputs.cache
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.AssemblyInfo.cs
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.csproj.CoreCompileInputs.cache
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.sourcelink.json
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.dll
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\refint\Pratica02.dll
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.pdb
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\Pratica02.genruntimeconfig.cache
+D:\Residência\Módulo 2 - Novembro\dotNet\.Net-\Semana 2\Pratica02\obj\Debug\net8.0\ref\Pratica02.dll
