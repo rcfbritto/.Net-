@@ -1,6 +1,6 @@
 using System.Security.Cryptography;
 
-namespace Namespace;
+namespace Teste;
 public class Cliente
 {
     public string Nome { get; set; }

@@ -1,4 +1,5 @@
 using System.Security.Cryptography;
+using Cliente = Teste.Cliente;
 
 namespace Namespace;
 public class Program
@@ -23,5 +24,19 @@ public class Program
         };
         escritorio.AdicionarAdvogado(advogado1);
         escritorio.AdicionarCliente(cliente1);
+    }
+     public IEnumerable<Advogado> AdvogadosComIdadeEntre(int idadeMinima, int idadeMaxima)
+    {
+        return advogados.Where(a => CalculaIdade(a.DataNascimento) >= idadeMinima && CalculaIdade(a.DataNascimento) <= idadeMaxima);
+    }
+    public IEnumerable<Cliente> ClientesComIdadeEntre(int idadeMinima, int idadeMaxima)
+    {
+        return clientes.Where(c => CalculaIdade(c.DataNascimento) >= idadeMinima && CalculaIdade(c.DataNascimento) <= idadeMaxima);
+    }
+    public IEnumerable<Cliente> ClientesComEstadoCivil(string estadoCivil){
+        return clientes.Where(c => c.EstadoCivil.Equals(estadoCivil, StringComparison.OrdinalIgnoreCase));
+    }
+    public IEnumerable<Cliente> ClientesEmOrdemAlfabetica(string ){
+        
     }
 }
