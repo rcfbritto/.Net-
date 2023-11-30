@@ -1,7 +1,11 @@
-using System.Security.Cryptography;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 using Namespace;
-public class Program
+public class Principal
 {
     public static void Main(string[] args){
         EscritorioAdvocacia escritorio = new EscritorioAdvocacia();
@@ -25,6 +29,11 @@ public class Program
         escritorio.AdicionarAdvogado(advogado1);
         escritorio.AdicionarCliente(cliente1);
     }
-    
+        Console.WriteLine("\nAdvogados com idade entre 30 e 50 anos: ");
+        foreach (var advogado in escritorio.AdvogadosComIdadeEntre(30, 50))
+        {
+            Console.WriteLine($"{advogado.Nome} - {CalculaIdade(advogado.DataNascimento)} anos");
+        }
+
 
 }
