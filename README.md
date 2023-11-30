@@ -6,7 +6,7 @@ Rafaela Cristina Ferreira Brito
 
 ### Turma T3
 
-## Atividades até o momento:
+## Atividades:
 - Instrução Prática 001 (.Net-P001)
 - Instrução Prática 002 (.Net-P002)
 - Instrução Prática 003 (.Net-P003)
