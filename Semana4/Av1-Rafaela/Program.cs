@@ -35,27 +35,40 @@ public class Program
         Console.WriteLine("\nAdvogados com idade entre 30 e 50 anos: ");
         foreach (var advogado in escritorio.AdvogadosComIdadeEntre(30, 50))
         {
-            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataNascimento)} anos");
+            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataDeNascimento)} anos");
         }
         Console.WriteLine("\nClientes com idade entre 25 e 70 anos: ");
-        foreach (var advogado in escritorio.AdvogadosComIdadeEntre(25, 70))
+        foreach (var cliente in escritorio.ClientesComIdadeEntre(25, 70))
         {
-            Console.WriteLine($"{cliente.nome} - {escritorio.CalculaIdade(advogado.DataNascimento)} anos");
+            Console.WriteLine($"{cliente.nome} - {escritorio.CalculaIdade(advogado.DataDeNascimento)} anos");
         }
         Console.WriteLine("\nClientes com estado civil casado: ");
         foreach (var advogado in escritorio.ClientesComEstadoCivil("Casado"))
         {
-            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataNascimento)} anos");
+            Console.WriteLine($"{advogado.EstadoCivil+" - "+ advogado.nome}");
         }
         Console.WriteLine("\nClientes em ordem alfabética: ");
         foreach (var advogado in escritorio.ClientesEmOrdemAlfabetica())
         {
-            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataNascimento)} anos");
+            Console.WriteLine($"{advogado.nome}");
         }
         Console.WriteLine("\nAniversariantes do mês de junho: ");
         foreach (var advogado in escritorio.AniversariantesDoMes(6))
         {
-            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataNascimento)} anos");
+            Console.WriteLine($"{advogado.nome} - {escritorio.CalculaIdade(advogado.DataDeNascimento)} anos");
         }
+        Console.WriteLine("\nAniversariantes do mês de junho: ");
+        foreach (var cliente in escritorio.AniversariantesDoMes(6))
+        {
+            Console.WriteLine($"{cliente.nome} - {escritorio.CalculaIdade(cliente.DataDeNascimento)} anos");
+        }
+         Console.WriteLine("\nClientes cuja profissão contém 'engenheiro':");
+        foreach (var cliente in escritorio.ClientesComProfissao("engenheiro"))
+        {
+            Console.WriteLine($"{cliente.nome} - {cliente.Profissao}");
+        }
+
     }
+    }
+
 }

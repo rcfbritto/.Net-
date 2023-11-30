@@ -62,7 +62,7 @@ public class EscritorioAdvocacia
     }
     public IEnumerable<object> AniversariantesDoMes(int mes){
         return advogados.Concat<object>(clientes).Where(p => ((DateTime)p.GetType().GetProperty("DataNascimento").GetValue(p)).Month == mes)
-            .OrderBy(p => ((DateTime)p.GetType().GetProperty("DataNascimento").GetValue(p)).Day);
+            .OrderBy(p => ((DateTime)p.GetType().GetProperty("DataDeNascimento").GetValue(p)).Day);
     }
     public int CalculaIdade(DateTime dataNascimento){
         int idade = DateTime.Today.Year - dataNascimento.Year;
