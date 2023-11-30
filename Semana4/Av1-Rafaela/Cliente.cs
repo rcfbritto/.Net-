@@ -1,9 +1,9 @@
 using System.Security.Cryptography;
 
-namespace Teste;
+namespace Namespace;
 public class Cliente
 {
-    public string Nome { get; set; }
+    public string nome { get; set; }
     public DateTime DataDeNacimento { get; set; }
     public string CPF { get; set; }
     public string EstadoCivil { get; set; }

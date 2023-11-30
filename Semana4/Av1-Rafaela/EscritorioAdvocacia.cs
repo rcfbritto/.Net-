@@ -38,7 +38,35 @@ public class EscritorioAdvocacia
         }
         else{
              clientes.Remove(cliente);
-        }
+        }   
+    }
+
+     public IEnumerable<Advogado> AdvogadosComIdadeEntre(int idadeMinima, int idadeMaxima)
+    {
+        return advogados.Where(a => CalculaIdade(a.DataDeNascimento) >= idadeMinima && CalculaIdade(a.DataDeNascimento) <= idadeMaxima);
+    }
+    public IEnumerable<Cliente> ClientesComIdadeEntre(int idadeMinima, int idadeMaxima)
+    {
+        return clientes.Where(c => CalculaIdade(c.DataDeNascimento) >= idadeMinima && CalculaIdade(c.DataDeNascimento) <= idadeMaxima);
+    }
+    public IEnumerable<Cliente> ClientesComEstadoCivil(string estadoCivil){
+        return clientes.Where(c => c.EstadoCivil.Equals(estadoCivil, StringComparison.OrdinalIgnoreCase));
+    }
+    public IEnumerable<Cliente> ClientesEmOrdemAlfabetica()
+    {
+        return clientes.OrderBy(c => c.nome);
         
+    }
+    public IEnumerable<Cliente> ClientesComProfissao(string textoProfissao){
+        return clientes.Where(c => c.Profissao.Contains(textoProfissao, StringComparison.OrdinalIgnoreCase));   
+    }
+    public IEnumerable<object> AniversariantesDoMes(int mes){
+        return advogados.Concat<object>(clientes).Where(p => ((DateTime)p.GetType().GetProperty("DataNascimento").GetValue(p)).Month == mes)
+            .OrderBy(p => ((DateTime)p.GetType().GetProperty("DataNascimento").GetValue(p)).Day);
+    }
+    private int CalculaIdade(DateTime dataNascimento){
+        int idade = DateTime.Today.Year - dataNascimento.Year;
+        if(DateTime.Today < dataNascimento.AddYears(idade)) idade--;
+        return idade;
     }
 }
